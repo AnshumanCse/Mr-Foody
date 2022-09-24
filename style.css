@@ -1,0 +1,173 @@
+/* .navbar{
+    /* display: block; */
+    /* position: static; */
+    /* background-image: url(https://image.shutterstock.com/image-photo/abstract-blurred-food-restaurant-260nw-697424737.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    height: 100%; 
+
+    
+}   
+
+  */
+
+  /* .starting{
+     justify-content: left;
+     align-items: none;
+     margin-left: -50vw;
+     height: 30vh;
+     width: 30vw;
+  } */
+
+.navbar-brand{
+   
+    font-family: sans-serif;
+      font-weight: bold;
+      /* box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.974); */
+     transition: 0.5s ease;
+      /* box-shadow: ; */
+     text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.974) ;
+
+ }   
+ .navbar-brand:hover{
+    transition: 0.5s ease;
+        cursor: pointer;
+        transform: scale(1.2);
+        text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.974);
+
+ }
+
+.navbar-brand{
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+     font-size: 3vw;  
+}  
+    
+.navbar-nav .nav-item a{
+    color: none;
+    
+}
+.navbar-nav .nav-item a:hover{
+    color: yellow;
+}
+.offcanvas-body{
+    background-color: rgb(26, 47, 26);
+}
+ main{
+   
+    height: 100%;
+    /* margin-left: 12px; */
+    margin-right: 12px; 
+} 
+h2{
+    margin-top: 8rem;
+    text-align: center
+    
+
+}
+
+
+
+.restro{
+    transition: 0.5s ease;
+    cursor: pointer;
+    transform: scale(1.2);
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.974);
+}
+/* .toast{
+    margin-top: 5rem;
+} */
+
+.card1{
+    
+    background-image: url(wh3bg.jpg);
+    
+}
+.first{
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bolder;
+}
+.card-body .btn{
+      font-family: sans-serif;
+      font-weight: bold;
+      box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.974);
+     transition: 0.5s ease;
+      /*  cursor: pointer;
+      transform: scale(1.2);
+      box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.974); */
+    }
+    .card-body .btn:hover{
+        transition: 0.5s ease;
+        cursor: pointer;
+        transform: scale(1.2);
+        box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.974);
+        
+    }
+    .card-body a:hover{
+        transition: 0.4s ease;
+        transform: scale(1.2);
+        cursor: pointer;
+        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.974);
+    }
+
+.col{
+    font-family: sans-serif;
+      
+       box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.974);
+     transition: 0.1s ease;
+    /* transition: 0.5s ease;
+        cursor: pointer;
+        transform: scale(1.2);
+        box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.974); */
+
+}
+.col:hover{
+    transition: 0.1s ease;
+        cursor: pointer;
+        transform: scale(1.1);
+        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.974); 
+}
+.card-body h5 a{
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-line: none;
+   font-style: normal;
+   border-bottom-style: none;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: green;
+}
+.card-body h5 a:hover{
+    transition: none;
+        transform: none;
+        cursor: pointer;
+        box-shadow: none;
+        color: black;
+}
+
+ footer{
+    height: 60vh;
+    background-color: rgb(15, 31, 15);
+
+ }
+  footer h2{
+    margin-top: 3vw;
+color: white;  
+}
+footer ul li a{
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-line: none;
+   font-style: normal;
+   border-bottom-style: none;
+   color: aqua;
+
+}
+
+.payment{
+    margin-top: 1rem;
+    text-align: center;
+}

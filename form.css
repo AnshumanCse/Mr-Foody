@@ -1,0 +1,52 @@
+form{
+    
+    height: 100%;
+    width: 100vw;
+   
+    
+    color: white;
+
+    background-color: rgb(32, 52, 32);
+}
+
+.form-check label{
+    color: black;
+    font-weight: normal;
+    font-size: smaller;
+}
+/* .payment {
+    margin-top: -10rem;
+    margin-left: 20rem;
+} */
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+.ordr {
+    /* background-color: rgb(123, 180, 123); */
+    color: rgb(20, 42, 20);
+   text-align: center;
+    text-decoration: none;
+    /* text-decoration-line: none;
+    text-decoration-line: none; */
+    /* border-bottom-style: none; */
+    justify-content: center;
+    align-items: center;
+}
+.row{
+    margin-top: 1rem;
+}
+.ordr a{
+    color: rgb(17, 39, 17);
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+}
+
+.ordr a:hover{    
+cursor: pointer;
+color: green;
+transition: margin-right 2s;
+
+}
