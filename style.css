@@ -67,9 +67,6 @@ h2{
     
 
 }
-
-
-
 .restro{
     transition: 0.5s ease;
     cursor: pointer;
@@ -106,6 +103,8 @@ h2{
         box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.974);
         
     }
+
+***********card**Body********
     .card-body a:hover{
         transition: 0.4s ease;
         transform: scale(1.2);
